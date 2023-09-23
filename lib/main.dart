@@ -18,20 +18,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-// class MyHomePage extends StatelessWidget {
-//   const MyHomePage({super.key});
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return Scaffold(
-//       appBar: AppBar(
-//         title: const Text('My Widget'),
-//       ),
-//       body: const Center(
-//         child: Text('Hello World'),
-//       ),
-//     );
-//   }
-// }
